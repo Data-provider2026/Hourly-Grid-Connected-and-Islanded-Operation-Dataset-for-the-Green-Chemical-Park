@@ -1,0 +1,2 @@
+# Hourly-Grid-Connected-and-Islanded-Operation-Dataset-for-the-Green-Chemical-Park
+This hourly, 24-scenario dataset benchmarks green hydrogen-ammonia parks via three files: environmental baselines, grid-tied electro-thermal synergy, and battery-constrained islanded operations. It provides a physically-bounded foundation for validating adaptive energy management systems and flexible production algorithms.
